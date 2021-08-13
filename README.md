@@ -4,7 +4,7 @@
 
 ## I'm WESLEI
 
-… Currently working as .NET Developer, with .netcore 3.1 version.
+… Currently living in Manchester, UK.
 
 
 ## About me 
